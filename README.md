@@ -151,7 +151,7 @@ streamlit run app.py
 ├── preprocessor.py         # NLTK text cleaning pipeline
 ├── insights.py             # Dataset-level insight generation
 ├── data/
-│   └── complaints.csv      # Sample dataset
+│   └── cleaned_tickets.csv      # Sample dataset
 ├── requirements.txt
 └── README.md
 ```
