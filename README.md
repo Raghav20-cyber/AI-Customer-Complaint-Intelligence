@@ -29,6 +29,13 @@ This system combines traditional NLP with a local LLM to handle the full pipelin
 
 ---
 
+## Why This Project Matters
+
+- Helps companies identify recurring customer issues faster  
+- Reduces manual analysis effort  
+- Enables data-driven decision making  
+
+--- 
 
 ## Approach
 
